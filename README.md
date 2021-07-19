@@ -43,15 +43,18 @@ donations are always welcome via ko-fi!<br>
 [ase]: https://www.aseprite.org/
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; ------------------------------------------------------------ <br><br>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ------------------------------------------------------------ <br><br>
 I've develop in [![win]](#) with [![vsc]](#) and [![ato]](#), involving web design and UXdesigning. <br>
 usual UXdesign via  [![axd]](#), UI and another design with [![aps]](#) and [![aai]](#) <br>
 some (web) experience designed by [![aae]](#)  and [![apr]](#) . <br>
 interested in design with marketing. <br>
-In addition, enjoying pixelart.  
+In addition, enjoying pixelart with [![aase]][ase]<br>
+engaged in a few localization and translation.<br>
+and interested in expand and develop one's local market from overseas.<br>
+
 
 <!-- icon Links -->
-[vsc]:  https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white
+[vsc]: https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white
 [ato]: https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white
 [win]: https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white
 [axd]: https://img.shields.io/badge/XD-FF61F6?style=flat&logo=adobeXD&logoColor=white
@@ -59,7 +62,7 @@ In addition, enjoying pixelart.
 [aai]: https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeIllustrator&logoColor=white
 [apr]: https://img.shields.io/badge/Premiere-22042C?style=flat&logo=adobePremierePro&logoColor=white
 [aae]: https://img.shields.io/badge/Aftereffects-9999FF?style=flat&logo=adobeAftereffects&logoColor=white
-
+[aase]: https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=Aseprite&logoColor=white
 
 ****
 
